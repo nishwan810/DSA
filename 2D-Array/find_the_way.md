@@ -1,7 +1,7 @@
 
 ***************************************************************************************************************************************************************
 <h1> Find The Way</h1>
-***************************************************************************************************************************************************************
+
 You are given a binary matrix of dimensions m*n. A mouse enters the matrix at cell (0,0) in left to right direction.
 
 He goes in the same direction if he encounters a 0 and he takes a right turn when he encounters a 1, and changes that specific 1 to 0. Otherwise he may get stuck in a cycle!
